@@ -7,5 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
 
+    printf("asda\n");
+
     return 0;
 }
